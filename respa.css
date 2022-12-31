@@ -1,0 +1,182 @@
+
+@media (max-width:420px) {
+    body{
+        margin: 0em;
+    }
+    .fundoBranco{
+        position: relative;
+        background-color: #FFFFFF;
+        width: 23em;
+        left: 17.7em; 
+        height: 55em;
+       
+        }
+/*parte de cima*/
+.NRFvision{
+position: absolute;
+top:12.5em;
+left: 19.4em;
+width: 20em;
+}
+.ftoEvento{
+position: absolute;
+top:29em;
+font-family: sans-serif;
+font-size:0.8em;
+left:24em;
+white-space: nowrap;
+
+}
+
+.top{
+position: absolute;
+background-image: linear-gradient( to right, #E9492A 35%, #E83A3C 50% ,#E83344 ,#E72555 ,#E72357);
+width: 23em;
+left: 17.7em; 
+height: 10em;
+top:1.5em;
+}
+.NRF2020{
+    position: absolute;
+    top:6em;
+    left:34em;
+    width: 6em;
+}
+.circulo{
+    position: absolute;
+    top:6em;
+    left: 15em;
+    width:8em;
+}
+    
+.zigzag{
+    position: absolute;
+    top:10em;
+    left:37em;
+    width:3em;
+}
+.triagle{
+    position: absolute;
+    top:4.8em;
+    left:39.7em;
+    width:1em;
+}
+
+.logoMaiorTop{
+    position: absolute;
+    top: 6em;
+    left: 20em;
+    width: 8em;
+}
+.mulherNuvem{
+    position: absolute;
+    top:6.6em;
+    left: 13em;
+    width: 5em;
+}
+.bolas{
+    position: absolute;
+    top:9.4em;
+    left:28em;
+    width: 2em;
+}
+.setas{
+    position: absolute;
+    top:7em;
+    left:30.5em;
+    width: 2em;
+}
+.fonte,.fonte2, .fonte3{
+    font-size: 60%;
+    position: absolute;
+    top: -3.4em;
+    font-style: italic;
+    color:#CECECE;
+    white-space: nowrap;
+    }
+.fonte3{
+    top:53em;
+    left:39em;
+    font-size: 50%;
+    }
+    .txtEvento{
+        position: absolute;
+        top:30em;
+        left:24em;
+        width: 400px;
+        overflow-wrap: break-word;  
+        word-wrap: break-word; 
+        word-break: break-word;
+        font-size: 80%;
+        
+        
+        }
+    
+    .retangoloPequeno ,.retanguloPequeno2,.retanguloPequeno3{
+        position: absolute;
+        width:9em;
+        height:.3em;
+        top:44em;
+        left:19em;
+        background-image: linear-gradient( to right, #76C6CF 35%, #72B8CC 50% ,#6FA8C7 ,#6B99C2 ,#6A8CBC,#6A87BA,#677BB4,#6875B1,#686AAC);
+        }
+        .retanguloPequeno2{
+        left:30em;
+        background-image: linear-gradient( to right, #41B695 35%, #64BFB5 50% ,#55BBA7 ,#4AB89D ,#41B695);
+        }
+        .retanguloPequeno3{
+            top: 28em;
+            left: 19.4em;
+            width: 12em;
+            background-image: linear-gradient(#E3285B,#D03C64,#BD4678,#AF4C80,#885795,#75599E);
+        }
+/*Meio*/
+
+    .logoNBA,.whhGrande{
+        position: relative;
+        top:-25em;
+        left: 19em;
+        height: 10em;
+        width: 10em;
+       
+        }
+        .whhGrande{
+        left:19.5em;
+        }
+
+    /*final*/
+    .RetanguloLaranja{
+    position: absolute;
+    background-color: #FC4C02;
+    width: 23em;
+    height: 5em;
+    top: 46em;
+    left: 17.7em;
+    }
+    .whhTexto,.peticao{
+        font-size: 75%;
+        top:53em;
+        position: absolute;
+        font-family: sans-serif;
+        white-space: nowrap;
+        }
+        .whhTexto{
+        left: 40em;
+        }
+        .peticao{
+        left: 25.4em;
+        }
+        .logoAss{
+            position: relative;
+            left:3em;
+            top:1em;
+            }
+            .txtcopy{
+                position: absolute;
+                top:64em;
+                left:26em;
+                color: #878A8B;
+                white-space: nowrap;
+                font-size: 80%;
+                }
+}
